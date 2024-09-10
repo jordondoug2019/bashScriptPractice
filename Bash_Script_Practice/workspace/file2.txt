@@ -1,0 +1,3 @@
+Bash is really fun 
+Bash Scripting is totally dope
+
